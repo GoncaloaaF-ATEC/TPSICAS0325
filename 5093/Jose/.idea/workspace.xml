@@ -27,7 +27,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9e9acd7-8ac1-46e8-ad8d-15593be2e539" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../03_Condicoes/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../03_Condicoes/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_condicoes_switch/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_condicoes_switch/.idea/04_condicoes_switch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_condicoes_switch/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_condicoes_switch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_condicoes_switch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_condicoes_switch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_Condicoes/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_Condicoes/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747757463289</updated>
-      <workItem from="1747757464458" duration="863000" />
+      <workItem from="1747757464458" duration="990000" />
     </task>
     <servers />
   </component>
