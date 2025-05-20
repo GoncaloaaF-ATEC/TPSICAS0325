@@ -65,8 +65,12 @@ int main(void) {
 
     if (valor1 > valor2) {
         printf("o maior é valor1 -> %d\n", valor1);
-    }else {
+
+    }else if (valor1 < valor2) {
         printf("o maior é valor2 -> %d\n", valor2);
+
+    }else {
+        printf("Os valores são iguais\n");
     }
 
     printf("Depois do if \n");
