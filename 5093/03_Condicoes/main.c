@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main(void) {
     // linha 1
     // linha 2
@@ -31,7 +32,7 @@ int main(void) {
 
 
     if ( num1 > num2) {
-        printf("Bloco do if");
+        printf("Bloco do if\n");
         // printf("%d is greater than %d", num1, num2);
     }else {
 
@@ -39,10 +40,38 @@ int main(void) {
 
     }
 
-    // faça um programas que receba 2 num e diga qual é o maior
+
+    printf("o num é %d\n", num1);
+
+    // faça um programas qu e receba 2 nume diga qual é o maior
 
 
-    
+    // receber 2 num
+    //    cirar as var para os num
+
+    int valor1;
+    int valor2;
+
+    //    ler os num
+
+    printf("valor 1:");
+    scanf("%d", &valor1);
+
+    printf("valor 2:");
+    scanf("%d", &valor2);
+
+
+    //    ver qual o maior
+
+    if (valor1 > valor2) {
+        printf("o maior é valor1 -> %d\n", valor1);
+    }else {
+        printf("o maior é valor2 -> %d\n", valor2);
+    }
+
+    printf("Depois do if \n");
+
+
 
     return 0;
 }
