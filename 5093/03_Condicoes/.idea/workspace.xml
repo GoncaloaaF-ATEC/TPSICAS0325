@@ -27,46 +27,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="745ebfba-d7a5-48ff-a53c-4452c03bc153" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../01_intro/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_intro/.idea/01_intro.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_intro/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_intro/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_intro/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_intro/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_intro/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_intro/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_scan_dataType/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_scan_dataType/.idea/02_scan_dataType.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_scan_dataType/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_scan_dataType/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_scan_dataType/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_scan_dataType/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_scan_dataType/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_scan_dataType/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/03_Condicoes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_condicoes_switch/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_condicoes_switch/.idea/04_condicoes_switch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_condicoes_switch/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_condicoes_switch/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_condicoes_switch/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_condicoes_switch/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_condicoes_switch/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_condicoes_switch/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05_desafio/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05_desafio/.idea/05_desafio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05_desafio/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05_desafio/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05_desafio/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05_desafio/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05_desafio/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05_desafio/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5093 - Estruturas de dados compostas/Jose/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5093 - Estruturas de dados compostas/Jose/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_desafio/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Jose/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747755681398</updated>
       <workItem from="1747755682507" duration="3894000" />
-      <workItem from="1747760164910" duration="682000" />
+      <workItem from="1747760164910" duration="757000" />
     </task>
     <servers />
   </component>
