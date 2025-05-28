@@ -25,7 +25,54 @@ int main(void) {
 
     int num = 5;
 
-    // for
+    for (int i = 1; i <= 10; i++ ) {
+        int aux = i * num;
+
+        printf("%d x %d = %d\n", i, num, aux);
+
+    }
+
+
+    // cal um factorial  com for
+
+    int num2 = 5; // 120
+
+    int fact = 1;
+    int i;
+    for (i = 1; i <= num2 ; i++) {
+
+        fact *= i; // fact = fact * i
+    }
+
+    printf("fact = %d\n", fact);
+    printf("i = %d\n", i);
+
+
+    int x = 10;
+
+    x = x + 5;
+    printf("%d\n", x);
+
+    x += 5;
+    printf("%d\n", x);
+
+
+
+
+    x = x - 5;
+    printf("%d\n", x);
+
+    x -= 5;
+    printf("%d\n", x);
+
+
+    x = x * 2;
+    printf("%d\n", x);
+
+    x *= 2;
+    printf("%d\n", x);
+
+
 
 
     return 0;
