@@ -28,6 +28,12 @@ int soma2(int num1, int num2) {
 }
 
 
+char teste() {
+    return 'x';
+}
+
+
+
 // (num1 + num2) * num3
 int times(int num1, int num2, int num3) {
 
@@ -86,6 +92,9 @@ int main(void) {
     int res2 = times(5,5,2); // (5+5 ) * 2
     printf("res1: %d \n", res2);
 
+
+    char ch = teste();
+    printf("char: %c \n", ch);
     return 0;
 }
 
