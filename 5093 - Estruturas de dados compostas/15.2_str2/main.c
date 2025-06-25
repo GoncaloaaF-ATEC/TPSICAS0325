@@ -7,14 +7,7 @@ int main(void) {
     printf("Digite seu nome: ");
     fgets(nome, sizeof(nome), stdin);
 
-
-
     printf("Seu nome: %s", nome);
-
-
-
-
-
 
     return 0;
 }
