@@ -22,7 +22,7 @@ typedef struct aluno {
 int main(void) {
     Aluno aluno1 = {"Gonçalo", 20, {12,12,1,12,1}};
 
-    printf("Aluno 1: %s\n", aluno1.nome);
+    printf("Auno 1: %s\n", aluno1.nome);
     printf("Aluno 1: %d\n", aluno1.idade);
     printf("Aluno 1: %.2f\n", aluno1.notas[0]);
 
