@@ -35,6 +35,6 @@ int main(void) {
 
     printf("alunos[1]: %s\n", alunos[1].nome);
     printf("alunos[1]: %d", alunos[1].idade);
-    
+
     return 0;
 }
