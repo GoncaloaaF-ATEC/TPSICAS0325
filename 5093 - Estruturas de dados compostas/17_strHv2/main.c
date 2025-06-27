@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <string.h>
+#include <stdio.h> // input e output
+#include <string.h> // strings
 
 #define MAX_NOME 20
 
